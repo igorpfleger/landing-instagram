@@ -1,5 +1,5 @@
-# Remodelled the Instagram Landing Page
+<h1 align='center'>Remodelled the Instagram Landing Page</h1>
 
-Project to remodel the Instagram landing page using HTML and CSS.
+<p align='center'>Project to remodel the Instagram landing page using HTML and CSS.</p>
 
-[Current Version](https://i.imgur.com/pFwokaU.png)
+<img src='https://i.imgur.com/pFwokaU.png' alt='Current Version' style='height: 100%; width=100%;'>
