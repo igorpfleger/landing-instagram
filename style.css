@@ -31,14 +31,14 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 60%;
+    width: 50%;
     height: 100vh;
 }
 
 .instagram-phone {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
     width: 50%;
 }
 
